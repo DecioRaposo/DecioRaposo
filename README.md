@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-I am Game Developer with a passion for Software Developer and Game Design. <br>Shoot me an Email(decioraposopro@gmail.com)
-or add me on
+I am Game Developer with a passion for Software Developer and Game Design. <br>Add me on
 <a href="https://www.linkedin.com/in/decioraposopro">LinkedIn
 </a>
 
