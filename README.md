@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-I am Game Developer with a passion for Software Developer and Game Design. <br>Add me on
-<a href="https://www.linkedin.com/in/decioraposopro">LinkedIn
-</a>
+I am passionate about tech and making games
 
 ## 🌐 Socials:
 
