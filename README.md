@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am passionate about tech and making games
+I'm in the begin of my journey learning more about software development and making games. I want to use this platform to help others who have the same goals as me and to registry my learning curve.
 
 ## 🌐 Socials:
 
